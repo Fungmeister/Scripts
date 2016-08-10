@@ -26,7 +26,7 @@ script = argv[0]
 sim = argv[1]
 service_provider = argv[2] # Telstra, Woolworths Mobile, Vodafone
 
-mobile = '0422285751'
+mobile = '##########'
 title = 'Mr' #  Mr/Miss/Ms/Mrs/Miss/Dr
 name = 'John'
 surname = 'Smith'
