@@ -26,7 +26,7 @@ script = argv[0]
 sim = argv[1]
 service_provider = argv[2] # Amaysim, Optus, Vodafone
 
-mobile = '0422285751'
+mobile = '##########'
 title = 'Mr' #  Mr/Miss/Ms
 name = 'John'
 surname = 'Smith'
